@@ -1,0 +1,22 @@
+#JAP
+music_station = "jap_showa_music"
+music = {
+	song = "Plastic Love"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}

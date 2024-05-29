@@ -1,0 +1,73 @@
+spriteTypes = {
+
+    spriteType = {
+		name = "GFX_egd_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//egd_music_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_usa_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_west_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//west_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_sov_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//sov_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_sov_80s_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//sov_80s_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_prc_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//prc_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_tur_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//tur_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_per_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//per_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_jap_showa_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//jap_showa_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_srp_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//srp_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_yug_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//yug_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_gre_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//gre_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_irq_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//irq_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_syr_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//syr_album_art.dds"
+		noOfFrames = 2
+	}
+}

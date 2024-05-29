@@ -1,0 +1,1163 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 1
+}
+music = {
+	name = "Outer Heaven"
+	file = "generic/Outer Heaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shaohui"
+	file = "generic/Shaohui.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In Your Arms"
+	file = "generic/In Your Arms.ogg"
+	volume = 0.65
+}
+#west
+music = {
+	name = "The September - See You in September"
+	file = "generic/west/See You in September.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alphaville - Forever Young"
+	file = "generic/west/80s/Forever Young.ogg"
+	volume = 0.65
+}
+music = {
+	name = "2 Minutes to Midnight"
+	file = "generic/west/80s/2 Minutes to Midnight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rick Astley - Never Gonna Give You Up"
+	file = "generic/west/80s/Rick Astley - Never Gonna Give You Up.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Check it in, check it out"
+	file = "generic/west/80s/Check it in, check it out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Maiden - When The Wild Wind Blows"
+	file = "generic/west/80s/Iron Maiden - When The Wild Wind Blows.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Scorpions - Wind Of Change"
+	file = "generic/west/80s/Scorpions - Wind Of Change.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Europe - The Final Countdown"
+	file = "generic/west/80s/The Final Countdown.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "NENA - 99 Luftballons"
+	file = "generic/west/80s/99 Luftballons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "NENA - Irgendwie Irgendwo Irgendwann"
+	file = "generic/west/80s/Irgendwie Irgendwo Irgendwann.ogg"
+	volume = 0.65
+}
+# General Peace:
+music = {
+	name = "New Order"
+	file = "generic/peace/New Order.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Last of Us"
+	file = "generic/peace/Last of Us.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Vichnaya Pamyat"
+	file = "generic/peace/Vichnaya Pamyat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Elegy"
+	file = "generic/peace/Elegy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Forgotten Memories"
+	file = "generic/peace/Forgotten Memories.ogg"
+	volume = 0.65
+}
+music = {
+	name = "MEO"
+	file = "generic/peace/MEO.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beacon"
+	file = "generic/peace/beacon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Saved By Choppers"
+	file = "generic/peace/Saved By Choppers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Float"
+	file = "generic/peace/Float.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ritchie Blackmore -  Weiss Heim"
+	file = "generic/peace/Ritchie Blackmore -  Weiss Heim.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Waveform"
+	file = "generic/peace/Waveform.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Voices Through Lights"
+	file = "generic/peace/Voices Through Lights.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tu Me Manqueras"
+	file = "generic/peace/Tu Me Manqueras.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Broken Flower"
+	file = "generic/peace/Broken Flower.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sacrifice"
+	file = "generic/peace/Sacrifice.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nicole"
+	file = "generic/peace/Nicole.ogg"
+	volume = 0.65
+}
+music = {
+	name = "After the Storm"
+	file = "generic/peace/After the Storm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "FOB Menu"
+	file = "generic/peace/FOB Menu.ogg"
+	volume = 0.70
+}
+music = {
+	name = "Field Of Poppies"
+	file = "generic/peace/Field Of Poppies.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Brian Tyler - Im Sorry"
+	file = "generic/peace/Brian Tyler - Im Sorry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Connection"
+	file = "generic/peace/Connection.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dawn of a New Time"
+	file = "generic/peace/Dawn of a New Time.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WiC - Looking for Survivors"
+	file = "generic/peace/WiC - Looking for Survivors.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WiC - Trimethoxyphenethylamine"
+	file = "generic/peace/WiC - Trimethoxyphenethylamine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WiC - Nicole"
+	file = "generic/peace/WiC - Nicole.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Flight Of The Pigeon"
+	file = "generic/peace/The Flight Of The Pigeon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Delightful Poetry"
+	file = "generic/peace/East vs West - Delightful Poetry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Water Vapour"
+	file = "generic/peace/East vs West - Water Vapour.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Responsibilities"
+	file = "generic/peace/East vs West - Responsibilities.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Voices Through Lights"
+	file = "generic/peace/East vs West - Voices Through Lights.ogg"
+	volume = 0.65
+}
+# General war:
+music = {
+	name = "When It All Falls Down"
+	file = "generic/war/Audiomachine - When It All Falls Down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Halo"
+	file = "generic/war/Halo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Don't forget"
+	file = "generic/war/Don't forget.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Suspense"
+	file = "generic/war/Suspense.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Everything Ends Here"
+	file = "generic/war/Everything Ends Here.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nuclear Bomb"
+	file = "generic/war/East vs West - Defcon 1-Nuclear Bomb.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In The House In A Heartbeat"
+	file = "generic/war/In The House, In A Heartbeat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Winner None"
+	file = "generic/war/Winner None.ogg"
+	volume = 0.65
+}
+
+#general
+music = {
+	name = "The Door"
+	file = "generic/The Door.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bridge Of Death"
+	file = "generic/Bridge Of Death.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Turbine Hall"
+	file = "generic/Turbine Hall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dealing With Destruction"
+	file = "generic/Dealing With Destruction.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gallery"
+	file = "generic/Gallery.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hildur Guanadottir - Liaur"
+	file = "generic/Hildur Guanadottir - Liaur.ogg"
+	volume = 0.65
+}
+
+#Asia:
+music = {
+	name = "Orient"
+	file = "generic/peace/asia/Orient.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Water Vapour"
+	file = "generic/peace/asia/Water Vapour.ogg"
+	volume = 0.65
+}
+#SOV:
+music = {
+	name = "Mikhail Shufutinsky - Taganka"
+	file = "countries/SOV/Mikhail Shufutinsky - Taganka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chornyy Voron"
+	file = "countries/SOV/Chornyy Voron.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Anthem of the Soviet Union"
+	file = "countries/SOV/Anthem of the Soviet Union.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Raketi vsegda na postu"
+	file = "countries/SOV/Raketi vsegda na postu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Anthem of the Byelorussian Soviet Socialist Republic"
+	file = "countries/SOV/Anthem of the Byelorussian Soviet Socialist Republic.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Farewell of Slavianka"
+	file = "countries/SOV/Farewell of Slavianka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "State Anthem of the Ukrainian Soviet Socialist Republic"
+	file = "countries/SOV/State Anthem of the Ukrainian Soviet Socialist Republic.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shiroka Strana Moya Rodnaya"
+	file = "countries/SOV/Shiroka strana moya rodnaya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ekipazh - Odna Semya"
+	file = "countries/SOV/Ekipazh - Odna Semya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Seeing Off Of Vanya"
+	file = "countries/SOV/The Seeing Off Of Vanya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Zhuravli"
+	file = "countries/SOV/Zhuravli.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katyusha"
+	file = "countries/SOV/Katyusha.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katyusha - Instrumental"
+	file = "countries/SOV/Katyusha insturmental.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Podmoskovnie Vechera"
+	file = "countries/SOV/Moscow Nights.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Internationale"
+	file = "countries/SOV/Internationale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korobushka"
+	file = "countries/SOV/Korobushka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Krasnoznamennyy Turkestanskiy"
+	file = "countries/SOV/Krasnoznamennyy Turkestanskiy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Moskva–Pekin"
+	file = "countries/SOV/Moskva–Pekin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Anthem of the Estonian Soviet Socialist Republic"
+	file = "countries/SOV/Anthem of the Estonian Soviet Socialist Republic.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rossiya i Mongoliya"
+	file = "countries/SOV/Rossiya i Mongoliya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Internatsionaal"
+	file = "countries/SOV/Internatsionaal.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dmitriy Bormatenkov - Raskinulos more shiroko"
+	file = "countries/SOV/Dmitriy Bormatenkov - Raskinulos more shiroko.ogg"
+	volume = 0.65
+}
+
+#80s_sov
+music = {
+	name = "Yegor Letov - Moja oborona"
+	file = "countries/SOV/80s/Yegor Letov - Moja oborona.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Olga Zarubina - Zemlyanika"
+	file = "countries/SOV/80s/Olga Zarubina - Zemlyanika.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chernikovskaya Hata - Belaya noch"
+	file = "countries/SOV/80s/Chernikovskaya Hata - Belaya noch.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Yegor Letov - Gosudarstvo"
+	file = "countries/SOV/80s/Yegor Letov - Gosudarstvo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tonis Magi - Olimpic Games '80"
+	file = "countries/SOV/80s/Tonis Magi - Olimpic Games '80.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kino - Gruppa Krovi"
+	file = "countries/SOV/80s/Gruppa Krovi.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pyl Glotayu"
+	file = "countries/SOV/80s/Pyl Glotayu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Karavan"
+	file = "countries/SOV/80s/Karavan.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Armeyskiye Pesni - Privet Malyshka"
+	file = "countries/SOV/80s/Privet Malyshka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Viktor Tsoi- Kukushka"
+	file = "countries/SOV/80s/Viktor Tsoi- Kukushka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Olga Chipovskaya - Safari"
+	file = "countries/SOV/80s/Olga Chipovskaya - Safari.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kletka"
+	file = "countries/SOV/80s/Kletka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Viktor Tsoi - Zvezda Po Imeni Solntse"
+	file = "countries/SOV/80s/Viktor Tsoi - Zvezda Po Imeni Solntse.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Goodbye Forever"
+	file = "countries/SOV/80s/Goodbye Forever.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Aleksandr Minayev - Po vostoku"
+	file = "countries/SOV/80s/Aleksandr Minayev - Po vostoku.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kaskad - Kukushka"
+	file = "countries/SOV/80s/Kaskad - Kukushka.ogg"
+	volume = 0.65
+}
+#USA:
+music = {
+	name = "Tears for Fears - Everybody Wants to Rule the World"
+	file = "countries/USA/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A-ha - Take On Me"
+	file = "countries/USA/80s/Take On Me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Michael Jackson - Billie Jean"
+	file = "countries/USA/80s/Billie Jean.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Real Life - Send Me An Angel"
+	file = "countries/USA/80s/Send Me An Angel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Whitney Houston - I Wanna Dance With Somebody"
+	file = "countries/USA/80s/I Wanna Dance With Somebody.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Asia - Only Time Will Tell"
+	file = "countries/USA/80s/Only Time Will Tell.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Joy Division - Love Will Tear Us Apart"
+	file = "countries/USA/80s/Love Will Tear Us Apart.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wham! - Everything She Wants"
+	file = "countries/USA/80s/Everything She Wants.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bee Gees - How Deep Is Your Love"
+	file = "countries/USA/80s/How Deep Is Your Love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Midge Ure - The Man Who Sold The World"
+	file = "countries/USA/80s/The Man Who Sold The World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cutting Crew - [I Just] Died In Your Arms"
+	file = "countries/USA/80s/[I Just] Died In Your Arms.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bryan Adams - Summer Of ’69"
+	file = "countries/USA/80s/Bryan Adams - Summer Of ’69.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pink Floyd - Two Suns In The Sunset"
+	file = "countries/USA/80s/Two Suns In The Sunset.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bon Jovi - Livin' On A Prayer"
+	file = "countries/USA/80s/Bon Jovi - Livin' On A Prayer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Journey - Separate Ways (Worlds Apart)"
+	file = "countries/USA/80s/Separate Ways (Worlds Apart).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Joel - We Didn't Start the Fire"
+	file = "countries/USA/80s/Billy Joel - We Didn't Start the Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Matthew Wilder - Break My Stride"
+	file = "countries/USA/80s/Break My Stride.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Idol - Eyes Without A Face"
+	file = "countries/USA/80s/Eyes Without A Face.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mild High Club - Homage"
+	file = "countries/USA/80s/Homage.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Frankie Goes To Hollywood - Welcome To The Pleasuredome"
+	file = "countries/USA/80s/Welcome To The Pleasuredome.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Modern Talking - You're My Heart, You're My Soul"
+	file = "countries/USA/80s/Youre My Heart Youre My Soul.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jan Dean - The Universal Coward"
+	file = "countries/USA/Jan Dean - The Universal Coward.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Star Spangled Banner"
+	file = "countries/USA/Star Spangled Banner.ogg"
+	volume = 0.65
+}
+#JAP
+music = {
+	name = "Plastic Love"
+	file = "countries/JAP/Plastic Love.ogg"
+	volume = 0.65
+}
+
+
+#SRP
+music = {
+	name = "Serbian Falcons!"
+	file = "countries/SRP/Serbian Falcons!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "We Serbs are Supermen!"
+	file = "countries/SRP/We Serbs are Supermen!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Above city Brčko"
+	file = "countries/SRP/Above city Brcko.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Novak will return!"
+	file = "countries/SRP/Novak will return!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jadna Bosno suverena"
+	file = "countries/SRP/Miro Semberac - Jadna Bosno suverena.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Al Kapone"
+	file = "countries/SRP/Al Kapone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crni Bombarder"
+	file = "countries/SRP/Crni Bombarder.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bog je Srbjin"
+	file = "countries/SRP/Bog je Srbjin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hej Hej Kikore"
+	file = "countries/SRP/Hej Hej Kikore.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oj Alija Aljo"
+	file = "countries/SRP/Oj Alija Aljo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Republika Srpska"
+	file = "countries/SRP/Republika Srpska.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Love You"
+	file = "countries/SRP/I Love You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tito Our Comrade, We Swear to You"
+	file = "countries/SRP/Tito Our Comrade, We Swear to You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kiss Me in the Rain"
+	file = "countries/SRP/Kiss Me in the Rain.ogg"
+	volume = 0.65
+}
+
+#PRC
+music = {
+	name = "The People of Yanbian Love Chairman Mao (Tibetan Version)"
+	file = "countries/PRC/The People of Yanbian Love Chairman Mao (Tibetan Version).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sailing the Seas Depends on the Helmsman"
+	file = "countries/PRC/Sailing the Seas Depends on the Helmsman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Long live the People"
+	file = "countries/PRC/Long live the People.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Revolutionaries Are Always Young"
+	file = "countries/PRC/The Revolutionaries Are Always Young.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Three Rules and Eight Notices For Attention"
+	file = "countries/PRC/Three Rules and Eight Notices For Attention.ogg"
+	volume = 0.65
+}
+music = {
+	name = "As the War Approaches"
+	file = "countries/PRC/As the War Approaches.ogg"
+	volume = 0.65
+}
+music = {
+	name = "March of the People's Liberation Army!"
+	file = "countries/PRC/March of the People's Liberation Army!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ode to the Motherland!"
+	file = "countries/PRC/Ode to the Motherland!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katyusha - Chinese version"
+	file = "countries/PRC/Katyusha - Chinese version.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Workers, Peasants and Soldiers Unite"
+	file = "countries/PRC/Workers, Peasants and Soldiers Unite.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Red Sun in the Sky"
+	file = "countries/PRC/Red Sun in the Sky.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "I Love Beijing Tiananmen"
+	file = "countries/PRC/I Love Beijing Tiananmen.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Internationale  Chinese"
+	file = "countries/PRC/Internationale  Chinese.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Learn From Lei Feng's Good Example"
+	file = "countries/PRC/Learn From Lei Feng's Good Example.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the Volunteers"
+	file = "countries/PRC/March of the Volunteers.ogg"
+	volume = 0.65
+	}	
+music = {
+	name = "No Communist Party No New China"
+	file = "countries/PRC/Red Sun in the Sky.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Smuglyanka Chinese"
+	file = "countries/PRC/Smuglyanka Chinese.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Socialism is Good"
+	file = "countries/PRC/Socialism is Good.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The People of Yanbian Love Chairman Mao"
+	file = "countries/PRC/The People of Yanbian Love Chairman Mao.ogg"
+	volume = 0.65
+	}
+#TUR
+music = {
+	name = "Erkin Koray - Cemalım"
+	file = "countries/TUR/Cemalim.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Barış Manço - Alla Beni, Pulla Beni"
+	file = "countries/TUR/Alla Beni Pulla Beni.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hardal - Bir Yağmur Masalı"
+	file = "countries/TUR/Bir Yagmur Masali.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cem Karaca - Ceviz Ağacı"
+	file = "countries/TUR/Ceviz Agaci.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Barış Manço - Dönence"
+	file = "countries/TUR/Donence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Erkin Koray - Çöpçüler"
+	file = "countries/TUR/Copculer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Barış Manço - Kara Sevda"
+	file = "countries/TUR/Kara Sevda.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mazhar ve Fuat - Sür Efem Atını"
+	file = "countries/TUR/Sur Efem Atıni.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hardal - Nasıl, Ne Zaman?"
+	file = "countries/TUR/Nasil Ne Zaman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ahmet Kaya - Yorgun Demokrat"
+	file = "countries/TUR/Yorgun Demokrat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nazan Şoray - Hal Hal"
+	file = "countries/TUR/Hal Hal.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Barış Manço - Gülpembe"
+	file = "countries/TUR/Gulpembe.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hindikuştur Dağları"
+	file = "countries/TUR/Hindikustur Daglari.ogg"
+	volume = 0.65
+}
+#PER
+music = {
+	name = "Fereidoun Farrokhza - For The Homeland, Forward!"
+	file = "countries/PER/For The Homeland Forward.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Farhad Mehrad - Friday"
+	file = "countries/PER/Friday.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fereidoun Foroughi - My Crazy Love"
+	file = "countries/PER/My Crazy Love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dariush - City Of Pain"
+	file = "countries/PER/City Of Pain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kurush Yaghmae - Ice Flower"
+	file = "countries/PER/Ice Flower.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fereidoun Foroughi - Ankle"
+	file = "countries/PER/Ankle.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Farhad Mehrad - Rainy Owl"
+	file = "countries/PER/Rainy Owl.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gogosh - Divorce"
+	file = "countries/PER/Divorce.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fereidoun Foroughi - My Classmate"
+	file = "countries/PER/My Classmate.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fereidoun Foroughi - Prison"
+	file = "countries/PER/Prison.ogg"
+	volume = 0.65
+}
+#YUG
+music = {
+	name = "Bijelo Dugme - Jugoslavijo"
+	file = "countries/YUG/Bijelo Dugme - Jugoslavijo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kompartijo, Mirisavo Cvece"
+	file = "countries/YUG/Kompartijo, mirisavo cveće.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Internacionala"
+	file = "countries/YUG/Internacionala.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Nasa Jugoslavija"
+	file = "countries/YUG/Nasa Jugoslavija.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Neki To Vole Vruce - Teska vremena"
+	file = "countries/YUG/Neki To Vole Vruce - Teska vremena.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pesma Milicionara"
+	file = "countries/YUG/Pesma Milicionara.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pionirska Pjesma"
+	file = "countries/YUG/Pionirska Pjesma.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pjesma Nove Mladosti"
+	file = "countries/YUG/Pjesma Nove Mladosti.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Republiko Slavo Nasa"
+	file = "countries/YUG/Republiko Slavo Nasa.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Steg Partije"
+	file = "countries/YUG/Steg Partije.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Uz Marsala Tita"
+	file = "countries/YUG/Uz Marsala Tita.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Yugoslav Armed Forces Medley"
+	file = "countries/YUG/Yugoslav Armed Forces Medley.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hej Sloveni"
+	file = "countries/YUG/Hej Sloveni.ogg"
+	volume = 0.65
+}
+#GRE
+music = {
+	name = "Hymn to EAM"
+	file = "countries/GRE/Hymn to EAM.ogg"
+	volume = 0.65
+}
+music = {
+	name = "O Ymnos tou DSE"
+	file = "countries/GRE/O Ymnos tou DSE.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Aris's small village"
+	file = "countries/GRE/Aris's small village.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Crows"
+	file = "countries/GRE/Black Crows.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Children Stand Up"
+	file = "countries/GRE/Children Stand Up.ogg"
+	volume = 0.65
+}
+music = {
+	name = "From planes and ravines"
+	file = "countries/GRE/From planes and ravines.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Greece we are your Children"
+	file = "countries/GRE/Greece we are your Children.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heroes"
+	file = "countries/GRE/Heroes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mpelogianis is still alive"
+	file = "countries/GRE/Mpelogianis is still alive.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The International (Greek)"
+	file = "countries/GRE/The International (Greek).ogg"
+	volume = 0.65
+}
+music = {
+	name = "We are not rags"
+	file = "countries/GRE/We are not rags.ogg"
+	volume = 0.65
+}
+music = {
+	name = "You fell victims"
+	file = "countries/GRE/You fell victims.ogg"
+	volume = 0.65
+}
+#IRQ
+music = {
+	name = "Morning Hordes"
+	file = "countries/IRQ/Morning Hordes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Welcome warrior of destiny"
+	file = "countries/IRQ/Welcome warrior of destiny.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Maeda Nazhat - Ya sharaf al aummati"
+	file = "countries/IRQ/Maeda Nazhat - Ya sharaf al aummati.ogg"
+	volume = 0.65
+}
+#SYR
+music = {
+	name = "Aghniat ya Hafez al-Assad (Song for Hafez al-Assad)"
+	file = "countries/SYR/Aghniat ya Hafez al-Assad (Song for Hafez al-Assad).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hamak Allah ya Assad (God Protect You Assad)"
+	file = "countries/SYR/Hamak Allah ya Assad (God Protect You Assad).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Humat ad-Diyar (Guardians of the Homeland)"
+	file = "countries/SYR/Humat ad-Diyar (Guardians of the Homeland).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rayatk Bialeali ya Syria (Your Flags are High Syria)"
+	file = "countries/SYR/Rayatk Bialeali ya Syria (Your Flags are High Syria).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Syria Habib-nati (Syria My Love)"
+	file = "countries/SYR/Syria habib-nati (Syria My Love).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Syria lak Alsalam (Syria is Yours)"
+	file = "countries/SYR/Syria lak Alsalam (Syria is Yours).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tishreen (October)"
+	file = "countries/SYR/Tishreen (October).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ya Hafez Alehad (Hafez's Covenant)"
+	file = "countries/SYR/Ya Hafez Alehad (Hafez's Covenant).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rahal Albtl (Our Hero is Gone)"
+	file = "countries/SYR/Rahal Albtl (Our Hero is Gone).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nahn Alnasur (We are the Eagles)"
+	file = "countries/SYR/Nahn Alnasur (We are the Eagles).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sabah Alkhyr Ya Wtnaan (Good Morning Our Country)"
+	file = "countries/SYR/Sabah Alkhyr Ya Wtnaan (Good Morning Our Country).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Al-Nasr al-Arabiyu (The Arabian Eagle)"
+	file = "countries/SYR/Al-Nasr al-Arabiyu (The Arabian Eagle).ogg"
+	volume = 0.65
+}	
+music = {
+	name = "Al-Watan al-Arabiyya (Glory to You, Arab World)"
+	file = "countries/SYR/Al-Watan al-Arabiyya (Glory to You, Arab World).ogg"
+	volume = 0.65
+}
+music = {
+	name = "As-Salam al-Malaki (The Royal Salute)"
+	file = "countries/SYR/As-Salam al-Malaki (The Royal Salute).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fida'i (The Fedayeen)"
+	file = "countries/SYR/Fida'i (The Fedayeen).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mawtini (My Homeland)"
+	file = "countries/SYR/Mawtini (My Homeland).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mawtini (My Homeland, Iraqi Republic)"
+	file = "countries/SYR/Mawtini (My Homeland, Iraqi Republic).ogg"
+	volume = 0.65
+}
+music = {
+	name = "National Anthem of Lebanon"
+	file = "countries/SYR/National anthem of Lebanon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Royal Anthem of Jordan"
+	file = "countries/SYR/Royal Anthem of Jordan.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Anthem of the Arab Socialist Ba'ath Party"
+	file = "countries/SYR/Baath Anthem.ogg"
+	volume = 0.65
+}
+
+#1 minute of silence
+music = {
+	name = "one_minute_of_silence"
+	file = "one_minute_of_silence.ogg"
+	volume = 0.0
+}

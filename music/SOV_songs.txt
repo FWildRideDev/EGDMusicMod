@@ -1,0 +1,647 @@
+music_station = "sov_80s_music"
+music = {
+	song = "Yegor Letov - Moja oborona"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Olga Zarubina - Zemlyanika"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Chernikovskaya Hata - Belaya noch"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Karavan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Tonis Magi - Olimpic Games '80"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Yegor Letov - Gosudarstvo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Kino - Gruppa Krovi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Pyl Glotayu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Armeyskiye Pesni - Privet Malyshka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Viktor Tsoi- Kukushka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Viktor Tsoi - Zvezda Po Imeni Solntse"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Olga Chipovskaya - Safari"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Olga Chipovskaya - Safari"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Kletka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Goodbye Forever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Aleksandr Minayev - Po vostoku"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Kaskad - Kukushka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Goodbye Forever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Goodbye Forever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music_station = "sov_music"
+music = {
+	song = "Dmitriy Bormatenkov - Raskinulos more shiroko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Anthem of the Soviet Union"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Byelorussian Soviet Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Farewell of Slavianka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ekipazh - Odna Semya"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "State Anthem of the Ukrainian Soviet Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Shiroka Strana Moya Rodnaya"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Zhuravli"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+				has_government = revolutionary_socialism
+				date > 1969.1.1
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1969.1.1
+			}
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Seeing Off Of Vanya"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Katyusha"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Katyusha - Instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Podmoskovnie Vechera"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Internationale"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Korobushka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Moskva–Pekin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Anthem of the Estonian Soviet Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Rossiya i Mongoliya"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = revolutionary_socialism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = revolutionary_socialism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Internatsionaal"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Mikhail Shufutinsky - Taganka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Chornyy Voron"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+

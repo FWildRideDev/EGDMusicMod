@@ -1,0 +1,984 @@
+#USA
+music_station = "usa_music"
+music = {
+	song = "Tears for Fears - Everybody Wants to Rule the World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "A-ha - Take On Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Michael Jackson - Billie Jean"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Real Life - Send Me An Angel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Whitney Houston - I Wanna Dance With Somebody"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Asia - Only Time Will Tell"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Joy Division - Love Will Tear Us Apart"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Wham! - Everything She Wants"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Bee Gees - How Deep Is Your Love"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Midge Ure - The Man Who Sold The World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Cutting Crew - [I Just] Died In Your Arms"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Bryan Adams - Summer Of ’69"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Pink Floyd - Two Suns In The Sunset"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Bon Jovi - Livin' On A Prayer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Journey - Separate Ways (Worlds Apart)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Billy Joel - We Didn't Start the Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Matthew Wilder - Break My Stride"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Billy Idol - Eyes Without A Face"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Mild High Club - Homage"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Frankie Goes To Hollywood - Welcome To The Pleasuredome"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Modern Talking - You're My Heart, You're My Soul"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = social_conservatism
+				has_government = national_conservatism
+				has_government = independent_socialism
+				has_government = social_democracy
+				has_government = social_liberalism
+				has_government = market_liberalism
+				has_government = corporate_oligarchy
+				has_government = illiberalism
+				has_government = autocracy
+				has_government = ultranationalism
+				has_government = transhumanism
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Star Spangled Banner"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
