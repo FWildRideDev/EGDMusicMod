@@ -308,6 +308,74 @@ music = {
 	file = "generic/peace/asia/Water Vapour.ogg"
 	volume = 0.65
 }
+
+#cn
+music = {
+	name = "Blood Shadow of Khmer"
+	file = "generic/cn/Blood Shadow of Khmer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "China's Century"
+	file = "generic/cn/China's Century.ogg"
+	volume = 0.65
+}
+music = {
+	name = "City upon a Hill"
+	file = "generic/cn/City upon a Hill.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deployment of the Divine Machine"
+	file = "generic/cn/Deployment of the Divine Machine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dream of Austrian Unification"
+	file = "generic/cn/Dream of Austrian Unification.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Land of Renewed Wings"
+	file = "generic/cn/Land of Renewed Wings.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Project Lingjing"
+	file = "generic/cn/Project Lingjing.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Road to Chinese Rejuvenation"
+	file = "generic/cn/Road to Chinese Rejuvenation.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Second War of Liberation"
+	file = "generic/cn/Second War of Liberation.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shadow of the Werewolf"
+	file = "generic/cn/Shadow of the Werewolf.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Third Power"
+	file = "generic/cn/Third Power.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Until All Hearts as One"
+	file = "generic/cn/Until All Hearts as One.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Warsaw Pact"
+	file = "generic/cn/Warsaw Pact.ogg"
+	volume = 0.65
+}
+
 #SOV:
 music = {
 	name = "Mikhail Shufutinsky - Taganka"

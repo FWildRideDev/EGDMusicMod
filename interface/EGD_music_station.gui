@@ -122,6 +122,17 @@ guiTypes = {
 		}
 	}
 	containerWindowType={
+		name = "cn_egd_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_cn_egd_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
 		name = "usa_music_stations_entry"
 		size = { width = 162 height = 130 }
 		

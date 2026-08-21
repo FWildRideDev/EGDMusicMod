@@ -4,4 +4,4 @@ tags={
 	"Sound"
 }
 name="Eternal Golden Dawn Music Mod"
-supported_version="1.15.*"
+supported_version="1.19.*"
