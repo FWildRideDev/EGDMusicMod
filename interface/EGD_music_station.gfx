@@ -1,0 +1,28 @@
+spriteTypes = {
+
+    spriteType = {
+		name = "GFX_egd_music_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/egd_music_album_art.dds"
+		noOfFrames = 2
+	}
+    spriteType = {
+		name = "GFX_cn_egd_music_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/cn_egd_music_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_general_music_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/general_music_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_low_music_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/low_music_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_merc_music_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/merc_music_album_art.dds"
+		noOfFrames = 2
+	}
+}
