@@ -1,2 +1,42 @@
 music_station = "low_music"
 
+music = {
+	song = "the_crying_orc"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "ea_lord_of_the_depths"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "rose_clouds_of_holocaust"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "we_drive_east"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "magdalena"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

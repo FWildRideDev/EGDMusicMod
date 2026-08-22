@@ -1,2 +1,26 @@
 music_station = "merc_music"
 
+music = {
+	song = "22_going_on_23"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "crusader"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "kool_thing"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

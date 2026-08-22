@@ -336,10 +336,48 @@ music = {
 }
 
 #Low Music
-
+music = {
+	name = "the_crying_orc"
+	file = "03_low_music/the_crying_orc.ogg"
+	volume = 0.65
+}
+music = {
+	name = "ea_lord_of_the_depths"
+	file = "03_low_music/ea_lord_of_the_depths.ogg"
+	volume = 0.65
+}
+music = {
+	name = "rose_clouds_of_holocaust"
+	file = "03_low_music/rose_clouds_of_holocaust.ogg"
+	volume = 0.65
+}
+music = {
+	name = "we_drive_east"
+	file = "03_low_music/we_drive_east.ogg"
+	volume = 0.65
+}
+music = {
+	name = "magdalena"
+	file = "03_low_music/magdalena.ogg"
+	volume = 0.65
+}
 
 #Merc Music
-
+music = {
+	name = "22_going_on_23"
+	file = "04_merc_music/22_going_on_23.ogg"
+	volume = 0.65
+}
+music = {
+	name = "crusader"
+	file = "04_merc_music/crusader.ogg"
+	volume = 0.65
+}
+music = {
+	name = "kool_thing"
+	file = "04_merc_music/kool_thing.ogg"
+	volume = 0.65
+}
 
 #1 minute of silence
 music = {
