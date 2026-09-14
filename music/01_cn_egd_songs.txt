@@ -25,6 +25,14 @@ music = {
 	}
 }
 music = {
+	song = "the_day_the_red_dragon_awakens"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "deployment_of_the_divine_machine"
 	chance = {
 		modifier = {
@@ -34,6 +42,22 @@ music = {
 }
 music = {
 	song = "dream_of_austrian_unification"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "the_elf_princess_vow"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "guardians_of_world_peace_and_hope"
 	chance = {
 		modifier = {
 			factor = 1

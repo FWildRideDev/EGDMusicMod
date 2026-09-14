@@ -148,6 +148,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "guardians_of_world_peace_and_hope"
+	file = "01_cn_egd_music/guardians_of_world_peace_and_hope.ogg"
+	volume = 0.65
+}
+music = {
 	name = "land_of_renewed_wings"
 	file = "01_cn_egd_music/land_of_renewed_wings.ogg"
 	volume = 0.65
@@ -170,6 +175,16 @@ music = {
 music = {
 	name = "shadow_of_the_werewolf"
 	file = "01_cn_egd_music/shadow_of_the_werewolf.ogg"
+	volume = 0.65
+}
+music = {
+	name = "the_day_the_red_dragon_awakens"
+	file = "01_cn_egd_music/the_day_the_red_dragon_awakens.ogg"
+	volume = 0.65
+}
+music = {
+	name = "the_elf_princess_vow"
+	file = "01_cn_egd_music/the_elf_princess_vow.ogg"
 	volume = 0.65
 }
 music = {
