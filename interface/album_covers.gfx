@@ -1,0 +1,28 @@
+	spriteTypes = {
+	
+		#EGD Music
+		
+		spriteType = {
+			name = "GFX_EGD_Travelling_Fire_Outer_Heaven"
+			texturefile = "gfx/EGD_album_covers/EGD_Travelling_Fire_Outer_Heaven.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_HOI_EvW"
+			texturefile = "gfx/EGD_album_covers/EGD_HOI_EvW.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_WiC_OST"
+			texturefile = "gfx/EGD_album_covers/EGD_WiC_OST.png"
+			legacy_lazy_load = no
+		}
+	
+		#CN-EGD Music
+		
+		spriteType = {
+			name = "GFX_EGD_CN_EGD_OST"
+			texturefile = "gfx/EGD_album_covers/EGD_CN_EGD_OST.png"
+			legacy_lazy_load = no
+		}
+	}
