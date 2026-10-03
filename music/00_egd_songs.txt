@@ -33,6 +33,30 @@ music = {
 	}
 }
 music = {
+	song = "EGD_st_defcon_fear"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "EGD_st_defcon_loss"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "EGD_st_defcon_madness"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "EGD_st_evw_ww3"
 	chance = {
 		modifier = {

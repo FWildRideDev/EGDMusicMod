@@ -8,6 +8,11 @@
 			legacy_lazy_load = no
 		}
 		spriteType = {
+			name = "GFX_EGD_DEFCON_OST"
+			texturefile = "gfx/EGD_album_covers/EGD_DEFCON_OST.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
 			name = "GFX_EGD_HOI_EvW"
 			texturefile = "gfx/EGD_album_covers/EGD_HOI_EvW.png"
 			legacy_lazy_load = no
