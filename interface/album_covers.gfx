@@ -1,5 +1,5 @@
 	spriteTypes = {
-	
+		
 		#EGD Music
 		
 		spriteType = {
@@ -22,12 +22,201 @@
 			texturefile = "gfx/EGD_album_covers/EGD_WiC_OST.png"
 			legacy_lazy_load = no
 		}
-	
+		
 		#CN-EGD Music
 		
 		spriteType = {
 			name = "GFX_EGD_CN_EGD_OST"
 			texturefile = "gfx/EGD_album_covers/EGD_CN_EGD_OST.png"
+			legacy_lazy_load = no
+		}
+		
+		#General Music
+		
+		spriteType = {
+			name = "GFX_EGD_Aha_Hunting_High_and_Low"
+			texturefile = "gfx/EGD_album_covers/EGD_Aha_Hunting_High_and_Low.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Alphaville_Forever_Young"
+			texturefile = "gfx/EGD_album_covers/EGD_Alphaville_Forever_Young.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Asia_Asia"
+			texturefile = "gfx/EGD_album_covers/EGD_Asia_Asia.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Bee_Gees_Saturday_Night_Fever"
+			texturefile = "gfx/EGD_album_covers/EGD_Bee_Gees_Saturday_Night_Fever.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Billy_Idol_Rebel_Yell"
+			texturefile = "gfx/EGD_album_covers/EGD_Billy_Idol_Rebel_Yell.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Billy_Joel_Storm_Front"
+			texturefile = "gfx/EGD_album_covers/EGD_Billy_Joel_Storm_Front.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Bon_Jovi_Slippery_When_Wet"
+			texturefile = "gfx/EGD_album_covers/EGD_Bon_Jovi_Slippery_When_Wet.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Bryan_Adams_Reckless"
+			texturefile = "gfx/EGD_album_covers/EGD_Bryan_Adams_Reckless.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Cutting_Crew_Broadcast"
+			texturefile = "gfx/EGD_album_covers/EGD_Cutting_Crew_Broadcast.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Europe_The_Final_Countdown"
+			texturefile = "gfx/EGD_album_covers/EGD_Europe_The_Final_Countdown.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Frankie_Goes_To_Hollywood_Welcome_To_The_Pleasuredome"
+			texturefile = "gfx/EGD_album_covers/EGD_Frankie_Goes_To_Hollywood_Welcome_To_The_Pleasuredome.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Iron_Maiden_Powerslave"
+			texturefile = "gfx/EGD_album_covers/EGD_Iron_Maiden_Powerslave.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Iron_Maiden_The_Final_Frontier"
+			texturefile = "gfx/EGD_album_covers/EGD_Iron_Maiden_The_Final_Frontier.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Journey_Frontiers"
+			texturefile = "gfx/EGD_album_covers/EGD_Journey_Frontiers.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Joy_Division_Substance"
+			texturefile = "gfx/EGD_album_covers/EGD_Joy_Division_Substance.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Matthew_Wilder_I_Dont_Speak_The_Language"
+			texturefile = "gfx/EGD_album_covers/EGD_Matthew_Wilder_I_Dont_Speak_The_Language.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Michael_Jackson_Thriller"
+			texturefile = "gfx/EGD_album_covers/EGD_Michael_Jackson_Thriller.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Midge_Ure_The_Gift"
+			texturefile = "gfx/EGD_album_covers/EGD_Midge_Ure_The_Gift.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Mild_High_Club_Skiptracing"
+			texturefile = "gfx/EGD_album_covers/EGD_Mild_High_Club_Skiptracing.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Modern_Talking_The_1st_Album"
+			texturefile = "gfx/EGD_album_covers/EGD_Modern_Talking_The_1st_Album.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Nena_Feuer_und_Flamme"
+			texturefile = "gfx/EGD_album_covers/EGD_Nena_Feuer_und_Flamme.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Nena_Nena"
+			texturefile = "gfx/EGD_album_covers/EGD_Nena_Nena.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Pink_Floyd_The_Final_Cut"
+			texturefile = "gfx/EGD_album_covers/EGD_Pink_Floyd_The_Final_Cut.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Real_Life_Heartland"
+			texturefile = "gfx/EGD_album_covers/EGD_Real_Life_Heartland.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Rick_Astley_Whenever_You_Need_Somebody"
+			texturefile = "gfx/EGD_album_covers/EGD_Rick_Astley_Whenever_You_Need_Somebody.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Scorpions_Crazy_World"
+			texturefile = "gfx/EGD_album_covers/EGD_Scorpions_Crazy_World.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Tears_for_Fears_Songs_from_the_Big_Chair"
+			texturefile = "gfx/EGD_album_covers/EGD_Tears_for_Fears_Songs_from_the_Big_Chair.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Wham_Make_It_Big"
+			texturefile = "gfx/EGD_album_covers/EGD_Wham_Make_It_Big.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Whitney_Houston_Whitney"
+			texturefile = "gfx/EGD_album_covers/EGD_Whitney_Houston_Whitney.png"
+			legacy_lazy_load = no
+		}
+		
+		#Low Music
+		
+		spriteType = {
+			name = "GFX_EGD_Burzum_Burzum"
+			texturefile = "gfx/EGD_album_covers/EGD_Burzum_Burzum.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Death_In_June_Rose_Clouds_of_Holocaust"
+			texturefile = "gfx/EGD_album_covers/EGD_Death_In_June_Rose_Clouds_of_Holocaust.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Death_In_June_The_Guilty_Have_No_Pride"
+			texturefile = "gfx/EGD_album_covers/EGD_Death_In_June_The_Guilty_Have_No_Pride.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Sedmina_Melita_and_Veno_Dolenc"
+			texturefile = "gfx/EGD_album_covers/EGD_Sedmina_Melita_and_Veno_Dolenc.png"
+			legacy_lazy_load = no
+		}
+		
+		#Merc Music
+		
+		spriteType = {
+			name = "GFX_EGD_Butthole_Surfers_Locust_Abortion_Technician"
+			texturefile = "gfx/EGD_album_covers/EGD_Butthole_Surfers_Locust_Abortion_Technician.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Saxon_Crusader"
+			texturefile = "gfx/EGD_album_covers/EGD_Saxon_Crusader.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EGD_Sonic_Youth_Goo"
+			texturefile = "gfx/EGD_album_covers/EGD_Sonic_Youth_Goo.png"
 			legacy_lazy_load = no
 		}
 	}
